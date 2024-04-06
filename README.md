@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedzacki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedzacki" /> </p>
 
-<strong> - 🌱 I’m currently learning **Spring Framework**></strong>
+<strong> - 🌱 I’m currently learning **Spring Framework**>
 
 - 💬 Ask me about **App Development. How to get an internship while in college.**
 
 - 📫 How to reach me **ahmedhandulle01@gmail.com**
 
-- ⚡ Fun fact **I speak 3 languages**
+- ⚡ Fun fact **I speak 3 languages**</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
