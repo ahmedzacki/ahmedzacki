@@ -8,11 +8,11 @@
 <strong> 
  🌱 I’m currently learning **Spring Framework**>
 
-- 💬 Ask me about **App Development. How to get an internship while in college.**
+💬 Ask me about **App Development. How to get an internship while in college.**
 
-- 📫 How to reach me **ahmedhandulle01@gmail.com**
+📫 How to reach me **ahmedhandulle01@gmail.com**
 
-- ⚡ Fun fact **I speak 3 languages**
+⚡ Fun fact **I speak 3 languages**
 </strong>
 
 <h3 align="left">Connect with me:</h3>
