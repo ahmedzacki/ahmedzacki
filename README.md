@@ -7,7 +7,7 @@
 
 <strong> 
  🌱 I’m currently learning **Spring Framework**
- <br>
+ <p> </p>
 
 💬 Ask me about **App Development. How to get an internship while in college.**
 
