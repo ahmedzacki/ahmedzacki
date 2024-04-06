@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Handulle</h1>
 <h3 align="center">I'm a Full Stack developer based in New York. I am also a CS major at Marist College.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://github.com/ahmedzacki/ahmedzacki/blob/main/git%20image.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedzacki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedzacki" /> </p>
 
