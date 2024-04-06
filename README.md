@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedzacki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedzacki" /> </p>
 
-<B - 🌱 I’m currently learning **Spring Framework**>
+<strong> - 🌱 I’m currently learning **Spring Framework**></strong>
 
 - 💬 Ask me about **App Development. How to get an internship while in college.**
 
