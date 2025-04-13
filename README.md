@@ -1,6 +1,6 @@
 ![Header](./github-header-image%20(2).png)
 <h1 align="center">Hi 👋 there</h1>
-<h3 align="center">I’m Ahmed, and I’m based in New York. I hold a bachelor’s degree in Computer Science and Information Technology. I’m an aspiring software developer focusing on AI and Machine Learning. I’m dedicated to enhancing my skills in building robust full-stack applications and systems, and I’m eager to apply my knowledge to real-world challenges. I’m committed to continuous learning and collaboration, aiming to explore and expand the possibilities of engineering and science.</h3>
+<h3 align="center">I’m Ahmed, and I’m based in New York. I hold a bachelor’s degree in Computer Science. I’m an aspiring software developer focusing on Enterprise Applications, AI and Machine Learning. I’m dedicated to enhancing my skills in building robust full-stack applications and systems, and I’m eager to apply my knowledge to real-world challenges. I’m committed to continuous learning and collaboration, aiming to explore and expand the possibilities of engineering and science.</h3>
 <img align="right" alt="Coding" width="400" src="./git%20image.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedzacki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedzacki" /> </p>
@@ -11,9 +11,8 @@
 
 💬 Ask me about **Web Development, App Development, Internships, Collaboration**
 
-📫 How to reach me:  **ahmedhandulle01@gmail.com** or https://handulle.dev/
+📫 How to reach me:  **ahmedhandulle01@gmail.com** 
 
-⚡ Fun fact **I speak 3 languages**
 </strong>
 
 <h3 align="left">Connect with me:</h3>
