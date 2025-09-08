@@ -1,6 +1,6 @@
 ![Header](./github-header-image%20(2).png)
 <h1 align="center">Hi 👋 there</h1>
-<h3 align="center">I’m Ahmed, and I’m based in New York. I hold a bachelor’s degree in Computer Science and I enjoy writing code it is so much fun.</h3>
+<h3 align="center">I’m Ahmed, and I’m based in New York. I hold a bachelor’s degree in Computer Science and I write meaningful code.</h3>
 <img align="right" alt="Coding" width="400" src="./git%20image.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedzacki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedzacki" /> </p>
