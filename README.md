@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Ahmed%20Handulle&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Java%20%7C%20Spring%20Boot%20%7C%20AWS&descSize=18&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Ahmed%20Handulle&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Python%20%C2%B7%20Java%20%7C%20Spring%20Boot%20%7C%20AWS&descSize=18&descAlignY=57" width="100%" />
 
 <a href="https://linkedin.com/in/ahmedhandulle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ahmedhandulle01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
